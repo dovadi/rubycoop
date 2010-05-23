@@ -29,3 +29,13 @@ Customer benefits:
 
 * More continuity, less dependent on a single developer or a small company.
 * Because of the higher occupation of the members a more competative hourly fee can be offered.
+
+
+Startup
+-------
+
+What are the minimal requirements for starting up the Ruby Co-Op?
+
+* The minimal number of members?
+* A minimal number of assignments before the Co-Op formally starts?
+* Do we need members in one Country/Region/Timezone ?
