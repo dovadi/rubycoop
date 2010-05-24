@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Ruby CoOp</title>
+ <link href="http://rubycoop.org/atom.xml" rel="self"/>
+ <link href="http://rubycoop.org/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://rubycoop.org</id>
+ <author>
+   <name>Frank Oxener</name>
+   <email>frank.oxener@gmail.com</email>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title | xml_escape }}</title>
+   <link href="http://rubycoop.org{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://rubycoop.org{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>

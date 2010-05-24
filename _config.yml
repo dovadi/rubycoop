@@ -1,0 +1,5 @@
+auto: true
+pygments: true
+exclude:
+- README.md
+- Rakefile

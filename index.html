@@ -1,0 +1,25 @@
+---
+layout: default
+title: Ruby co-op
+---
+
+{% for post in site.posts %}
+  <div id="article-{{post.title}}" class="hentry">
+    <h2 class="entry-title">
+      <a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <div class="vcard">
+      Posted by <span class="fn">Frank Oxener</span>
+    </div>
+    <abbr title="{{ post.date | date_to_string }}" class="published">on {{ post.date | date_to_string }}</abbr>
+    <br class="clear">
+    <div class="entry-content">
+      {{ post.content }}
+    </div>
+    <ul class="meta">
+      <li>
+          <a id="more" href="{{ post.url }}#disqus_thread">Comments &raquo;</a>
+      </li>
+    </ul>
+  </div>
+{% endfor %}

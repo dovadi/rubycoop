@@ -1,3 +1,7 @@
+---
+layout: static
+title: definitions
+---
 Definitions
 ===========
 
