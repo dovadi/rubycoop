@@ -1,3 +1,4 @@
-Liabilities
-===========
-
+---
+layout: static
+title: Liabilities
+---

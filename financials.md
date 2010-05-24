@@ -1,5 +1,8 @@
-Financials
-==========
+---
+layout: static
+title: Financials
+---
+
 
 Membership fee
 --------------

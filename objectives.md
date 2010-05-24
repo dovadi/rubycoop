@@ -1,2 +1,4 @@
-Objectives
-==========
+---
+layout: static
+title: Objectives
+---

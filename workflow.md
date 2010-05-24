@@ -1,5 +1,7 @@
-Workflow
-========
+---
+layout: static
+title: Workflow
+---
 
 Acquisition
 ----------

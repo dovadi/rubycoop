@@ -1,6 +1,7 @@
-Board
-=====
-
+---
+layout: static
+title: Board
+---
 
 Composition
 -----------

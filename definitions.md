@@ -1,10 +1,7 @@
 ---
 layout: static
-title: definitions
+title: Definitions
 ---
-Definitions
-===========
-
 
 * **Cooperative**
   

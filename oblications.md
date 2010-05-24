@@ -1,5 +1,7 @@
-Oblications
-===========
+---
+layout: static
+title: Oblications
+---
 
 * What oblications do we have as members of the Co-Op?
 
