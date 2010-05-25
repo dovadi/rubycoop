@@ -1,5 +1,5 @@
 --- 
-title: Kickoff
+title: Proposal for a formal (commercial) cooperative
 layout: post
 category: general
 ---
