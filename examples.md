@@ -3,4 +3,4 @@ layout: static
 title: Examples
 ---
 
-What are succesfull cooperatives as an example for the Ruby Co-Op?
+**What are succesfull co-operatives as an example for the Ruby Co-op?**

@@ -21,8 +21,10 @@ Election
 
 * How often do we elect the members of the board?
 
-  Once a year
+  Once a year!
   
 
 Boardmeetings
 -------------
+
+* How of does the board have a meeting?
