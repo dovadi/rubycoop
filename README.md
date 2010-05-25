@@ -1,6 +1,3 @@
-README
-======
-
 Proposal for a formal (commercial) cooperative with Ruby developers as members to implement/build paid projects for customers.
 ------------------------------------------------------------------------------------------------------------------------------
 
