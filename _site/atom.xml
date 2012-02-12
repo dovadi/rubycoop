@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Ruby CoOp</title>
+ <link href="http://rubycoop.org/atom.xml" rel="self"/>
+ <link href="http://rubycoop.org/"/>
+ <updated>2012-02-12T16:32:46+01:00</updated>
+ <id>http://rubycoop.org</id>
+ <author>
+   <name>Frank Oxener</name>
+   <email>frank.oxener@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Proposal for a formal (commercial) co-operative</title>
+   <link href="http://rubycoop.org/general/2010/05/23/proposal-for-a-formal-cooperative.html"/>
+   <updated>2010-05-23T00:00:00+02:00</updated>
+   <id>http://rubycoop.org/general/2010/05/23/proposal-for-a-formal-cooperative</id>
+   <content type="html">&lt;p&gt;So you&amp;#8217;re an independent Ruby developer with all the &lt;em&gt;benefits&lt;/em&gt; you can think of.&lt;/p&gt;
+
+&lt;p&gt;With a lot of &lt;strong&gt;freedom&lt;/strong&gt;. You work from home, you choose your own assignments, no adjustment to a corporate culture, no managers to deal with etc.&lt;/p&gt;
+
+&lt;p&gt;But what about the &lt;strong&gt;downsides&lt;/strong&gt;? No feedback on your work (from which you can learn), not a lot of interaction with other programmers, not easy to consult a colleague on technical or other matters and sometimes the workload is too much or too little.&lt;/p&gt;
+
+&lt;p&gt;So that leads me to the question: is there a form of working together without losing the valued benefits of an independent developer. Somehow it must be possible to work together on a commercial basis as individual developers more or less the same way we contribute to an Open Source project.&lt;/p&gt;
+
+&lt;p&gt;Living in a community (on an island) where we have a lot of benefit of existing co-operatives (for &lt;a href='https://teso.nl/index.php?option=com_content&amp;amp;view=article&amp;amp;id=102&amp;amp;Itemid=69&amp;amp;lang=en'&gt;transport by ferry&lt;/a&gt; and the &lt;a href='http://texelenergie.nl/'&gt;delivery of energy&lt;/a&gt;), I of course thought of a formal co-operative as an organization form for working as an collective.&lt;/p&gt;
+
+&lt;h2 id='benefits'&gt;Benefits:&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Acquisition as a collective.&lt;/li&gt;
+
+&lt;li&gt;More flexible in workload. No more running or standing still. A more even distribution of the workload.&lt;/li&gt;
+
+&lt;li&gt;Higher occupation on average.&lt;/li&gt;
+
+&lt;li&gt;Share knowledge and practical experience.&lt;/li&gt;
+
+&lt;li&gt;Learn by working together on the same project.&lt;/li&gt;
+
+&lt;li&gt;More change to do what you do best (specialties).&lt;/li&gt;
+
+&lt;li&gt;More change to make some money as a part time ruby developer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The co-op will also offer the customer more continuity. A customer will value the lower dependence on a single developer or a small company.&lt;/p&gt;
+
+&lt;h2 id='release_early_release_often'&gt;Release early, release often:&lt;/h2&gt;
+
+&lt;p&gt;With this proposal I like to research the possibility of working together in a formal co-operative. Of course I don&amp;#8217;t have all the answers (yet), but I&amp;#8217;m hoping that we can together answer a lot of them.&lt;/p&gt;
+
+&lt;p&gt;Let me know what &lt;strong&gt;you&lt;/strong&gt; think. I made a first draft of a proposal on Github with the following subjects:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Definitions&lt;/li&gt;
+
+&lt;li&gt;Objectives&lt;/li&gt;
+
+&lt;li&gt;Rights&lt;/li&gt;
+
+&lt;li&gt;Responsibilities&lt;/li&gt;
+
+&lt;li&gt;Obligations&lt;/li&gt;
+
+&lt;li&gt;Financials&lt;/li&gt;
+
+&lt;li&gt;Board&lt;/li&gt;
+
+&lt;li&gt;Workflow&lt;/li&gt;
+
+&lt;li&gt;Examples&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I like to invite you to &lt;strong&gt;join this discussion&lt;/strong&gt; and &lt;strong&gt;make your contribution&lt;/strong&gt; by forking and submitting your patches!&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
